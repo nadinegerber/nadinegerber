@@ -6,13 +6,13 @@ Welcome!
 
 After starting with HTML/CSS in 2012, I am "re-booting" my technical path in 2026 with a focus on AI Engineer and Developer specializing in building autonomous agentic systems, custom automation tools, and localized data pipelines...aspiring to turn complex data into "Kick-Ass" business intelligence. 
 
-Based in Cape Town, I am busy becoming a self-taught **Python Developer**,**Full Stack AI Developer/Engineer** and **Creative Problem Solver**. I approach development with a **code-first, lightweight philosophy**—building modular, efficient systems from scratch using raw Python and terminal-driven environments rather than relying on heavy graphical user interfaces (GUIs).
+Based in Cape Town, I am busy becoming a self-taught **Python Developer**, **Full Stack AI Developer/Engineer** and **Creative Problem Solver**. I approach development with a **code-first, lightweight philosophy**— building modular, efficient systems from scratch using raw Python and terminal-driven environments rather than relying on heavy graphical user interfaces (GUIs).
 
 
 Already I am loving **conceptualizing** and **building** AI tools that can solve real-world problems....by focusing on bridging the gap between local logic and cloud-based AI solutions. 
 
 
-The mark of a great Product Designer—is prioritizing "Usability" over "Aesthetics" because a design which causes users to hunt for features or functionality to proceed, will cause frustration and vacation of the application. Consistency and ease of use always win.
+The mark of a great Product Designer— is prioritizing "Usability" over "Aesthetics" because a design which causes users to hunt for features or functionality to proceed, will cause frustration and vacation of the application. Consistency and ease of use always win.
 
 And the mark of a great developer is: asking "Why?" before asking "How?" The answer depends entirely on the Business Goal. One could build a tool to serve two completely different purposes, or even a mix of both.
 
@@ -53,7 +53,7 @@ A local, gamified micro-server that turns real-world task execution into an inte
 
 ### 📫 Connect with me
 * 📍 Based in: **Cape Town, South Africa**
-* Currently exploring advanced agent architecture, expanding technical capabilities in algorithmic systems, and studying French.*
+* Currently exploring advanced agent architecture, expanding technical capabilities in algorithmic systems, and studying French.
 * 🚲 When I'm not coding: You'll find me out on my road bike doing long solo rides! I managed to do a solo 270km ride in December 2025. Aiming for a solo 350km in December 2026 (God willing).
 
 
