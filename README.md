@@ -1,3 +1,7 @@
+<img width="216" height="444" alt="Nadine-cycling" src="https://github.com/user-attachments/assets/98d60282-4bab-4e9d-b73d-d5d6abda3a6f" />
+
+<img width="216" height="444" alt="Nadine-cycling-b" src="https://github.com/user-attachments/assets/b8f5cd45-e135-4a9d-9510-f3a5fce95d14" />
+
 # Hi! 👋 🇿🇦
 
 ### 👩‍💻 Nadine here!
@@ -28,7 +32,7 @@ I am actively focused on mastering the engineering principles behind autonomous 
 
 ### 🚀 Current Projects Under Development
 
-#### 🪙 AI-Driven Financial Sentiment Engine
+####  AI-Driven Financial Sentiment Engine
 Building a localized, open-source multi-agent system designed to scrape 24-hour global news feeds and market data to evaluate real-time sentiment indicators for commodities (specifically the GLD Gold ETF). 
 *   *Built with:* Python, CrewAI, LangChain.
 
