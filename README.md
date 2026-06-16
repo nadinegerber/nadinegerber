@@ -1,7 +1,3 @@
-<img width="216" height="444" alt="Nadine-cycling" src="https://github.com/user-attachments/assets/98d60282-4bab-4e9d-b73d-d5d6abda3a6f" />
-
-<img width="216" height="444" alt="Nadine-cycling-b" src="https://github.com/user-attachments/assets/b8f5cd45-e135-4a9d-9510-f3a5fce95d14" />
-
 # Hi! 👋 🇿🇦
 
 ### 👩‍💻 Nadine here!
@@ -60,6 +56,9 @@ A local, gamified micro-server that turns real-world task execution into an inte
 * Currently exploring advanced agent architecture, expanding technical capabilities in algorithmic systems, and studying French.
 * 🚲 When I'm not coding: You'll find me out on my road bike doing long solo rides! I managed to do a solo 270km ride in December 2025. Aiming for a solo 350km in December 2026 (God willing).
 
+<img width="216" height="444" alt="Nadine-cycling" src="https://github.com/user-attachments/assets/98d60282-4bab-4e9d-b73d-d5d6abda3a6f" />
+
+<img width="216" height="444" alt="Nadine-cycling-b" src="https://github.com/user-attachments/assets/b8f5cd45-e135-4a9d-9510-f3a5fce95d14" />
 
   ---
 > *"The goal is not to be a consumer of technology, but an architect of it."*
