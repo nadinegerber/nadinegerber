@@ -19,26 +19,26 @@ And the mark of a great developer is: asking "Why?" before asking "How?" The ans
 The goal is not to be a consumer of technology, but an architect of it.
 
 ---
-
+<!--
 ### 🎯 Focus & Professional Objectives
 
 I am actively focused on mastering the engineering principles behind autonomous AI agents, tool-calling loops, and custom logic systems. My objective is to deliver high-performing, secure, and independent AI solutions for automation, data analysis, and advanced workflow orchestration.
 
 ---
+-->
+### 🚀 Projects Under Development 
 
-### 🚀 Current Projects Under Development
-
-####  AI-Driven Financial Sentiment Engine
+#### 🌌 AI-Driven Financial Sentiment Engine
 Building a localized, open-source multi-agent system designed to scrape 24-hour global news feeds and market data to evaluate real-time sentiment indicators for commodities (specifically the GLD Gold ETF). 
 *   *Built with:* Python, CrewAI, LangChain.
 
-#### 🎮 Dopamine Dealer (Productivity Engine)
+#### 🎮 Dopamine Dealer (A Productivity Engine)
 A local, gamified micro-server that turns real-world task execution into an interactive RPG experience. Features an isolated backend API framework with dynamic client-side DOM updates and localized environment security variable controls.
 *   *Built with:* Python (Base HTTP server), JSON storage, Frontend HTML5/CSS3.
 
 ---
 
-### 🛠 Current Tech Stack & Toolkit
+### 🛠 Tech Stack & Toolkit - Currently (yes I am starting way at the bottom) 
 
 * **Languages:** Python, HTML5, CSS3, JavaScript (Foundational)
 * **AI Frameworks:** LangChain, CrewAI
@@ -51,7 +51,7 @@ A local, gamified micro-server that turns real-world task execution into an inte
 
 ---
 
-### 📫 Connect with me
+### 🇿🇦 About me
 * 📍 Based in: **Cape Town, South Africa**
 * Currently exploring advanced agent architecture, expanding technical capabilities in algorithmic systems, and studying French.
 * 🚲 When I'm not coding: You'll find me out on my road bike doing long solo rides! I managed to do a solo 270km ride in December 2025. Aiming for a solo 350km in December 2026 (God willing).
