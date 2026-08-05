@@ -1,3 +1,4 @@
+
 # Hi! 👋 🇿🇦
 
 ### 👩‍💻 Nadine here!
@@ -17,6 +18,8 @@ The mark of a great Product Designer— is prioritizing "Usability" over "Aesthe
 And the mark of a great developer is: asking "Why?" before asking "How?" The answer depends entirely on the Business Goal. One could build a tool to serve two completely different purposes, or even a mix of both.
 
 The goal is not to be a consumer of technology, but an architect of it.
+
+<img width="640" height="640" alt="nadine" src="https://github.com/user-attachments/assets/77a873b6-20bf-4458-9fe1-6efef7dc5169" />
 
 ---
 
@@ -46,6 +49,8 @@ A database-backed, agentic full-stack web application that combines local text p
 * *Built with:* Python (Base HTTP server), PostgreSQL, Llama 3.1 Inference Engine, Frontend HTML5/Skeuomorphic CSS3.
 
 <br>
+
+<img width="1772" height="1772" alt="nadine" src="https://github.com/user-attachments/assets/f6fc91b9-7ad5-4479-906f-69658ed40b5e" />
 
 ---
 
