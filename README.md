@@ -1,23 +1,22 @@
 
 # Hi! 👋 🇿🇦
 
-### 👩‍💻 Nadine here!
+### 👩‍💻 Welcome!
 
-Welcome! 
 
-After starting with HTML/CSS in 2012, I am "re-booting" my technical path in 2026 with a focus on AI Engineer and Developer specializing in building autonomous agentic systems, custom automation tools, and localized data pipelines...aspiring to turn complex data into "Kick-Ass" business intelligence. 
+Based in Cape Town, I am focusing on becoming a **Python Developer**, **Full Stack AI Developer/Engineer**  specializing in the building of autonomous agentic systems, custom automation tools, and localized data pipelines...aspiring to turn complex data into "Kick-Ass" business intelligence. 
 
-Based in Cape Town, I am busy becoming a self-taught **Python Developer**, **Full Stack AI Developer/Engineer** and **Creative Problem Solver**. I approach development with a **code-first, lightweight philosophy**— building modular, efficient systems from scratch using raw Python and terminal-driven environments rather than relying on heavy graphical user interfaces (GUIs).
+As a **Creative Problem Solver** I approach development with a **code-first, lightweight philosophy**— building modular, efficient systems from scratch using raw Python and terminal-driven environments rather than relying on heavy graphical user interfaces (GUIs).
 
 
 Already I am loving **conceptualizing** and **building** AI tools that can solve real-world problems....by focusing on bridging the gap between local logic and cloud-based AI solutions. 
 
 
-The mark of a great Product Designer— is prioritizing "Usability" over "Aesthetics" because a design which causes users to hunt for features or functionality to proceed, will cause frustration and vacation of the application. Consistency and ease of use always win.
+I believe that the mark of a great Product Designer— is prioritizing "Usability" over "Aesthetics" because a design which causes users to hunt for features or functionality to proceed, will cause frustration and vacation of the application. Consistency and ease of use always win.
 
-And the mark of a great developer is: asking "Why?" before asking "How?" The answer depends entirely on the Business Goal. One could build a tool to serve two completely different purposes, or even a mix of both.
+And so too the mark of a great developer is: asking "Why?" before asking "How?" The answer depends entirely on the Business Goal. One could build a tool to serve two completely different purposes, or even a mix of both.
 
-The goal is not to be a consumer of technology, but an architect of it.
+At the end of the day...the goal is not to be a consumer of technology, but an architect of it.
 
 <img width="640" height="640" alt="nadine" src="https://github.com/user-attachments/assets/77a873b6-20bf-4458-9fe1-6efef7dc5169" />
 
