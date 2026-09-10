@@ -4,9 +4,9 @@
 ### 👩‍💻 Welcome!
 
 
-Based in Cape Town, I am focusing on becoming a **Python Developer**, **Full Stack AI Developer/Engineer**  specializing in the building of autonomous agentic systems, custom automation tools, and localized data pipelines...aspiring to turn complex data into "Kick-Ass" business intelligence. 
+Based in Cape Town and focused on becoming an **AI Developer**  specializing in the building of autonomous agentic systems, custom automation tools, and localized data pipelines.....to turn data into kick-ass business intelligence. 
 
-As a **Creative Problem Solver** I approach development with a **code-first, lightweight philosophy**— building modular, efficient systems from scratch using raw Python and terminal-driven environments rather than relying on heavy graphical user interfaces (GUIs).
+As a **Creative Problem Solver** I approach development with a **code-first, lightweight philosophy**— building modular, efficient systems from scratch using Python and terminal-driven environments rather than relying on heavy graphical user interfaces (GUIs).
 
 
 Already I am loving **conceptualizing** and **building** AI tools that can solve real-world problems....by focusing on bridging the gap between local logic and cloud-based AI solutions. 
